@@ -1,4 +1,6 @@
 # Gerador de senha
+Status: Finalizado ✅
+
 ![generate](https://github.com/user-attachments/assets/cc42e0be-2911-41b2-8745-8ec2d737945f)
 
 > Um simples gerador de senhas que utiliza HTML, CSS e JavaScript. Este projeto permite que os usuários gerem senhas aleatórias com opções personalizáveis.
